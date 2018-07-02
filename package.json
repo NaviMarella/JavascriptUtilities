@@ -1,0 +1,19 @@
+{
+  "name": "javascriptutilities",
+  "version": "1.0.0",
+  "description": "20 javascript useful methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaviMarella/JavascriptUtilities.git"
+  },
+  "author": "Naveen Marella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaviMarella/JavascriptUtilities/issues"
+  },
+  "homepage": "https://github.com/NaviMarella/JavascriptUtilities#readme"
+}
