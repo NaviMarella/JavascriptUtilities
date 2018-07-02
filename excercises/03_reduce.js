@@ -39,6 +39,31 @@ let result = epic.reduce(function (previous, current) {
 console.log(result); //Output: "a long time ago in a galaxy far far away"
 
 
+/*
+* Difference between not passing any parameters
+* and passing in a additional parameter into `reduce()`
+*/
+
+var arr = ["apple","orange"];
+
+function noPassValue(){
+    return arr.reduce(function(prev,next){
+        console.log("prev:",prev);
+        console.log("next:",next);
+
+        return prev + " " +next;
+    });
+}
+function passValue(){
+    return arr.reduce(function(prev,next){
+        console.log("prev:",prev);
+        console.log("next:",next);
+
+        prev[next] = 1;
+        return prev;
+    },{});
+}
+
 // Example 3 -- Transform the users collection into below output.
 
 var users = [{ fullName: 'George Washington', email: 'george@us.gov' },
