@@ -9,6 +9,8 @@ Our goal is to help everyone make strides towards learning javascript and apply 
 This repo is used in parallel with a lecture style presentation of Wes Bos syntax
 [20 javascript Array and Object methods](https://syntax.fm/show/043/20-javascript-array-and-object-methods-to-make-you-a-better-developer).
 
+Supporting medium articles [Useful javascript methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
+
 ## System Requirements
 
 - [git]
