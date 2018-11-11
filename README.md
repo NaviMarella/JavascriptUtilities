@@ -19,4 +19,4 @@ Supporting medium articles [Useful javascript methods](https://codeburst.io/usef
 
 ## Thanks
 
-Special thanks to [Scott Tolinski](https://twitter.com/stolinski) and [Wes Bos](https://twitter.com/wesbos).
+Special thanks to [Wes Bos](https://twitter.com/wesbos).
